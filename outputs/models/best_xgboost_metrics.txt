@@ -1,0 +1,7 @@
+Model: XGBoost
+Accuracy: 0.9554
+Precision: 0.9278
+Recall: 0.9645
+F1-Score: 0.9458
+ROC-AUC: 0.9919
+Training Time (s): 2.59

@@ -1,0 +1,7 @@
+Model: Gradient Boosting
+Accuracy: 0.9432
+Precision: 0.9031
+Recall: 0.9626
+F1-Score: 0.9319
+ROC-AUC: 0.9869
+Training Time (s): 33.12

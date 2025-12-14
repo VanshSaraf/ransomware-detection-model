@@ -1,0 +1,7 @@
+Model: Random Forest
+Accuracy: 0.9578
+Precision: 0.9296
+Recall: 0.9688
+F1-Score: 0.9488
+ROC-AUC: 0.9924
+Training Time (s): 42.41
